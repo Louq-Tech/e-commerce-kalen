@@ -9,5 +9,5 @@
 4. Responsiveness - The dashboard layout adapts to different screen sizes (desktop, mobile) switching from multi column to horizontal view.
 
 ## Framework used
-- **React**
+- **React** -
   I chose **React** for building this healthcare dashboard because of its strong component stacking architecture, which allows me to break down the UI into reusable, self contained pieces. This approach makes development faster and the code easier to maintain and scale.
